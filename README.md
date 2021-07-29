@@ -10,6 +10,6 @@ instructions:
 
 dependencies used:
 
-react : V 17.0.2
-react-bootstrap: V 2.0.0-beta.4
-react-router-dom: V 5.2.0"
+react : V 17.0.2 - 
+react-bootstrap: V 2.0.0-beta.4 - 
+react-router-dom: V 5.2.0 
