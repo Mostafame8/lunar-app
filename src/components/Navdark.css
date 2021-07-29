@@ -1,0 +1,29 @@
+.nav-dark-list {
+  text-decoration: none;
+  list-style: none;
+}
+
+.nav-dark-list li {
+  display: inline;
+}
+
+.nav-dark-list li a {
+  text-decoration: none;
+  color: white;
+}
+
+.nav-dark-list li a:hover {
+  color: rgba(255, 255, 255, 0.5);
+}
+.nav-dark-active {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.nav-dark-list-col {
+  padding-top: 15px;
+}
+
+.nav-dark-img {
+  padding-top: 10px;
+  cursor: pointer;
+}

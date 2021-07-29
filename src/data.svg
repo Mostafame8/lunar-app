@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="201" height="203" viewBox="0 0 201 203">
+  <g id="Group_597" data-name="Group 597" transform="translate(-747 -293)">
+    <g id="Rectangle_197" data-name="Rectangle 197" transform="translate(747 293)" fill="#fff" stroke="#c50000" stroke-width="1">
+      <rect width="201" height="203" stroke="none"/>
+      <rect x="0.5" y="0.5" width="200" height="202" fill="none"/>
+    </g>
+    <rect id="Rectangle_198" data-name="Rectangle 198" width="201" height="23" transform="translate(747 293)" fill="#c50000"/>
+    <text id="Readings" transform="translate(757 309)" fill="#fff" font-size="13" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Readings</tspan></text>
+    <text id="Battery:_Voltage:_Speed:_Location:_Signal_strength:" data-name="Battery:
+Voltage:
+Speed:
+Location:
+Signal strength:" transform="translate(757 327)" fill="#c50000" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="13">Battery:</tspan><tspan x="0" y="30">Voltage:</tspan><tspan x="0" y="47">Speed:</tspan><tspan x="0" y="64">Location:</tspan><tspan x="0" y="81">Signal strength:</tspan></text>
+    <text id="_55_48.6_V_3_m_s_Cairo_77_" data-name="55%
+48.6 V
+3 m/s
+Cairo
+77%" transform="translate(873 327)" fill="#373737" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="13">55%</tspan><tspan x="0" y="30">48.6 V</tspan><tspan x="0" y="47">3 m/s</tspan><tspan x="0" y="64">Cairo</tspan><tspan x="0" y="81">77%</tspan></text>
+  </g>
+</svg>

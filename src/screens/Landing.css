@@ -1,0 +1,120 @@
+.Landing-img {
+  height: 100vh;
+  width: 100%;
+  background-image: url('../hero-image.JPG');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.Landing-container {
+  position: relative;
+  height: 500px;
+  margin-top: 80px;
+  max-width: 1550px;
+  padding: 5px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+  color: #ffffff;
+  backdrop-filter: blur(30px);
+}
+
+.Landing-container {
+  padding-left: 100px;
+}
+
+.Landing-container p {
+  text-align: left;
+  letter-spacing: 0px;
+  color: #ffffff;
+}
+
+#header-text {
+  font: normal normal normal 16px/19px Roboto;
+  text-shadow: 0px 3px 6px #00000029;
+  font-size: 2.5rem;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  text-transform: uppercase;
+}
+
+#bold-text {
+  font: normal normal bold 40px/48px Roboto;
+  color: #ffffff;
+  text-shadow: 0px 3px 6px #00000029;
+  font-size: 3.5rem;
+  text-transform: uppercase;
+}
+
+#desc-text {
+  font: normal normal normal 16px/19px Roboto;
+  color: #ffffff;
+  text-shadow: 1px 1px 3px #00000029;
+  font-size: 1.3rem;
+  margin-top: 30px;
+}
+
+.Landing-container button {
+  text-transform: uppercase;
+  color: #ffffff;
+  width: 248px;
+  height: 54px;
+  cursor: pointer;
+  padding: 0;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#explore-button {
+  border: none;
+  outline: inherit;
+  background: #c50000 0% 0% no-repeat padding-box;
+  margin-right: 20px;
+  padding: 16.5px 58.64px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+#light-button {
+  border: #ffffff 1.5px solid;
+  outline: black;
+  background: transparent 0% 0% no-repeat padding-box;
+  font-weight: 200;
+}
+
+.robot {
+  width: 700px;
+  height: 400px;
+  background: transparent 0% 0% no-repeat padding-box;
+  margin-top: 50px;
+}
+.arrow-button1 {
+  padding: 5px 10px;
+  background-color: #c50000;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.arrow-button2 {
+  padding: 5px 10px;
+  background-color: #c50000;
+  margin-top: 10px;
+}
+i {
+  color: #ffffff;
+}
+
+.youtube {
+  color: #ffffff;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: -130px;
+}
+
+.facebook {
+  color: #ffffff;
+  margin-left: -130px;
+  margin-top: 20px;
+}

@@ -1,0 +1,442 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="203" viewBox="0 0 300 203">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9d9d9d"/>
+      <stop offset="1" stop-color="#cfcfcf" stop-opacity="0.239"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_33" data-name="Group 33" transform="translate(-1206 -692)">
+    <rect id="Rectangle_193" data-name="Rectangle 193" width="300" height="23" transform="translate(1206 692)" fill="#c50000"/>
+    <g id="Rectangle_194" data-name="Rectangle 194" transform="translate(1206 715)" fill="#fff" stroke="#c50000" stroke-width="1">
+      <rect width="300" height="180" stroke="none"/>
+      <rect x="0.5" y="0.5" width="299" height="179" fill="none"/>
+    </g>
+    <text id="Risk" transform="translate(1216 708)" fill="#fff" font-size="13" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Risk</tspan></text>
+    <g id="Component_7_5" data-name="Component 7 – 5" transform="translate(1216 833)">
+      <g id="Rectangle_192" data-name="Rectangle 192" fill="#c50000" stroke="rgba(254,191,46,0)" stroke-width="1">
+        <rect width="280" height="52" stroke="none"/>
+        <rect x="0.5" y="0.5" width="279" height="51" fill="none"/>
+      </g>
+      <g id="Rectangle_191" data-name="Rectangle 191" transform="translate(191 3)" fill="#fff" stroke="rgba(254,191,46,0)" stroke-width="1">
+        <rect width="86" height="46" stroke="none"/>
+        <rect x="0.5" y="0.5" width="85" height="45" fill="none"/>
+      </g>
+      <text id="_20_" data-name="20%" transform="translate(12 39)" fill="#fff" font-size="37" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">20%</tspan></text>
+      <text id="Risk-2" data-name="Risk" transform="translate(234 31)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-13.166" y="0">Risk</tspan></text>
+    </g>
+    <g id="chart-risk">
+      <g id="Rectangle_192-2" data-name="Rectangle 192" transform="translate(1216 725)" fill="#fff" stroke="#dfe3e6" stroke-width="1">
+        <rect width="280" height="106" stroke="none"/>
+        <rect x="0.5" y="0.5" width="279" height="105" fill="none"/>
+      </g>
+      <text id="_0" data-name="0" transform="translate(1231 820)" fill="#526975" font-size="8" font-family="Roboto-Regular, Roboto"><tspan x="-4.492" y="0">0</tspan></text>
+      <text id="_100" data-name="100" transform="translate(1231 741)" fill="#526975" font-size="8" font-family="Roboto-Regular, Roboto"><tspan x="-13.477" y="0">100</tspan></text>
+      <g id="Group_34" data-name="Group 34" transform="translate(-3)">
+        <rect id="Rectangle_196" data-name="Rectangle 196" width="8" height="8" transform="translate(1238 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-2" data-name="Rectangle 196" width="8" height="8" transform="translate(1246 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-3" data-name="Rectangle 196" width="8" height="8" transform="translate(1254 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-4" data-name="Rectangle 196" width="8" height="8" transform="translate(1262 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-5" data-name="Rectangle 196" width="8" height="8" transform="translate(1270 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-6" data-name="Rectangle 196" width="8" height="8" transform="translate(1278 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-7" data-name="Rectangle 196" width="8" height="8" transform="translate(1286 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-8" data-name="Rectangle 196" width="8" height="8" transform="translate(1294 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-9" data-name="Rectangle 196" width="8" height="8" transform="translate(1302 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-10" data-name="Rectangle 196" width="8" height="8" transform="translate(1310 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-11" data-name="Rectangle 196" width="8" height="8" transform="translate(1318 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-12" data-name="Rectangle 196" width="8" height="8" transform="translate(1326 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-13" data-name="Rectangle 196" width="8" height="8" transform="translate(1334 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-14" data-name="Rectangle 196" width="8" height="8" transform="translate(1342 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-15" data-name="Rectangle 196" width="8" height="8" transform="translate(1350 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-16" data-name="Rectangle 196" width="8" height="8" transform="translate(1358 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-17" data-name="Rectangle 196" width="8" height="8" transform="translate(1366 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-18" data-name="Rectangle 196" width="8" height="8" transform="translate(1374 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-19" data-name="Rectangle 196" width="8" height="8" transform="translate(1382 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-20" data-name="Rectangle 196" width="8" height="8" transform="translate(1390 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-21" data-name="Rectangle 196" width="8" height="8" transform="translate(1398 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-22" data-name="Rectangle 196" width="8" height="8" transform="translate(1406 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-23" data-name="Rectangle 196" width="8" height="8" transform="translate(1414 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-24" data-name="Rectangle 196" width="8" height="8" transform="translate(1422 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-25" data-name="Rectangle 196" width="8" height="8" transform="translate(1430 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-26" data-name="Rectangle 196" width="8" height="8" transform="translate(1438 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-27" data-name="Rectangle 196" width="8" height="8" transform="translate(1446 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-28" data-name="Rectangle 196" width="8" height="8" transform="translate(1454 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-29" data-name="Rectangle 196" width="8" height="8" transform="translate(1462 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-30" data-name="Rectangle 196" width="8" height="8" transform="translate(1470 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-31" data-name="Rectangle 196" width="8" height="8" transform="translate(1478 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-32" data-name="Rectangle 196" width="8" height="8" transform="translate(1486 738)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-33" data-name="Rectangle 196" width="8" height="8" transform="translate(1238 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-34" data-name="Rectangle 196" width="8" height="8" transform="translate(1246 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-35" data-name="Rectangle 196" width="8" height="8" transform="translate(1254 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-36" data-name="Rectangle 196" width="8" height="8" transform="translate(1262 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-37" data-name="Rectangle 196" width="8" height="8" transform="translate(1270 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-38" data-name="Rectangle 196" width="8" height="8" transform="translate(1278 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-39" data-name="Rectangle 196" width="8" height="8" transform="translate(1286 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-40" data-name="Rectangle 196" width="8" height="8" transform="translate(1294 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-41" data-name="Rectangle 196" width="8" height="8" transform="translate(1302 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-42" data-name="Rectangle 196" width="8" height="8" transform="translate(1310 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-43" data-name="Rectangle 196" width="8" height="8" transform="translate(1318 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-44" data-name="Rectangle 196" width="8" height="8" transform="translate(1326 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-45" data-name="Rectangle 196" width="8" height="8" transform="translate(1334 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-46" data-name="Rectangle 196" width="8" height="8" transform="translate(1342 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-47" data-name="Rectangle 196" width="8" height="8" transform="translate(1350 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-48" data-name="Rectangle 196" width="8" height="8" transform="translate(1358 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-49" data-name="Rectangle 196" width="8" height="8" transform="translate(1366 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-50" data-name="Rectangle 196" width="8" height="8" transform="translate(1374 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-51" data-name="Rectangle 196" width="8" height="8" transform="translate(1382 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-52" data-name="Rectangle 196" width="8" height="8" transform="translate(1390 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-53" data-name="Rectangle 196" width="8" height="8" transform="translate(1398 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-54" data-name="Rectangle 196" width="8" height="8" transform="translate(1406 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-55" data-name="Rectangle 196" width="8" height="8" transform="translate(1414 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-56" data-name="Rectangle 196" width="8" height="8" transform="translate(1422 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-57" data-name="Rectangle 196" width="8" height="8" transform="translate(1430 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-58" data-name="Rectangle 196" width="8" height="8" transform="translate(1438 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-59" data-name="Rectangle 196" width="8" height="8" transform="translate(1446 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-60" data-name="Rectangle 196" width="8" height="8" transform="translate(1454 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-61" data-name="Rectangle 196" width="8" height="8" transform="translate(1462 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-62" data-name="Rectangle 196" width="8" height="8" transform="translate(1470 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-63" data-name="Rectangle 196" width="8" height="8" transform="translate(1478 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-64" data-name="Rectangle 196" width="8" height="8" transform="translate(1486 746)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-65" data-name="Rectangle 196" width="8" height="8" transform="translate(1238 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-66" data-name="Rectangle 196" width="8" height="8" transform="translate(1246 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-67" data-name="Rectangle 196" width="8" height="8" transform="translate(1254 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-68" data-name="Rectangle 196" width="8" height="8" transform="translate(1262 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-69" data-name="Rectangle 196" width="8" height="8" transform="translate(1270 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-70" data-name="Rectangle 196" width="8" height="8" transform="translate(1278 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-71" data-name="Rectangle 196" width="8" height="8" transform="translate(1286 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-72" data-name="Rectangle 196" width="8" height="8" transform="translate(1294 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-73" data-name="Rectangle 196" width="8" height="8" transform="translate(1302 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-74" data-name="Rectangle 196" width="8" height="8" transform="translate(1310 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-75" data-name="Rectangle 196" width="8" height="8" transform="translate(1318 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-76" data-name="Rectangle 196" width="8" height="8" transform="translate(1326 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-77" data-name="Rectangle 196" width="8" height="8" transform="translate(1334 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-78" data-name="Rectangle 196" width="8" height="8" transform="translate(1342 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-79" data-name="Rectangle 196" width="8" height="8" transform="translate(1350 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-80" data-name="Rectangle 196" width="8" height="8" transform="translate(1358 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-81" data-name="Rectangle 196" width="8" height="8" transform="translate(1366 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-82" data-name="Rectangle 196" width="8" height="8" transform="translate(1374 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-83" data-name="Rectangle 196" width="8" height="8" transform="translate(1382 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-84" data-name="Rectangle 196" width="8" height="8" transform="translate(1390 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-85" data-name="Rectangle 196" width="8" height="8" transform="translate(1398 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-86" data-name="Rectangle 196" width="8" height="8" transform="translate(1406 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-87" data-name="Rectangle 196" width="8" height="8" transform="translate(1414 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-88" data-name="Rectangle 196" width="8" height="8" transform="translate(1422 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-89" data-name="Rectangle 196" width="8" height="8" transform="translate(1430 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-90" data-name="Rectangle 196" width="8" height="8" transform="translate(1438 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-91" data-name="Rectangle 196" width="8" height="8" transform="translate(1446 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-92" data-name="Rectangle 196" width="8" height="8" transform="translate(1454 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-93" data-name="Rectangle 196" width="8" height="8" transform="translate(1462 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-94" data-name="Rectangle 196" width="8" height="8" transform="translate(1470 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-95" data-name="Rectangle 196" width="8" height="8" transform="translate(1478 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-96" data-name="Rectangle 196" width="8" height="8" transform="translate(1486 754)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-97" data-name="Rectangle 196" width="8" height="8" transform="translate(1238 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-98" data-name="Rectangle 196" width="8" height="8" transform="translate(1246 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-99" data-name="Rectangle 196" width="8" height="8" transform="translate(1254 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-100" data-name="Rectangle 196" width="8" height="8" transform="translate(1262 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-101" data-name="Rectangle 196" width="8" height="8" transform="translate(1270 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-102" data-name="Rectangle 196" width="8" height="8" transform="translate(1278 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-103" data-name="Rectangle 196" width="8" height="8" transform="translate(1286 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-104" data-name="Rectangle 196" width="8" height="8" transform="translate(1294 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-105" data-name="Rectangle 196" width="8" height="8" transform="translate(1302 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-106" data-name="Rectangle 196" width="8" height="8" transform="translate(1310 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-107" data-name="Rectangle 196" width="8" height="8" transform="translate(1318 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-108" data-name="Rectangle 196" width="8" height="8" transform="translate(1326 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-109" data-name="Rectangle 196" width="8" height="8" transform="translate(1334 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-110" data-name="Rectangle 196" width="8" height="8" transform="translate(1342 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-111" data-name="Rectangle 196" width="8" height="8" transform="translate(1350 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-112" data-name="Rectangle 196" width="8" height="8" transform="translate(1358 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-113" data-name="Rectangle 196" width="8" height="8" transform="translate(1366 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-114" data-name="Rectangle 196" width="8" height="8" transform="translate(1374 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-115" data-name="Rectangle 196" width="8" height="8" transform="translate(1382 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-116" data-name="Rectangle 196" width="8" height="8" transform="translate(1390 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-117" data-name="Rectangle 196" width="8" height="8" transform="translate(1398 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-118" data-name="Rectangle 196" width="8" height="8" transform="translate(1406 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-119" data-name="Rectangle 196" width="8" height="8" transform="translate(1414 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-120" data-name="Rectangle 196" width="8" height="8" transform="translate(1422 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-121" data-name="Rectangle 196" width="8" height="8" transform="translate(1430 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-122" data-name="Rectangle 196" width="8" height="8" transform="translate(1438 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-123" data-name="Rectangle 196" width="8" height="8" transform="translate(1446 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-124" data-name="Rectangle 196" width="8" height="8" transform="translate(1454 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-125" data-name="Rectangle 196" width="8" height="8" transform="translate(1462 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-126" data-name="Rectangle 196" width="8" height="8" transform="translate(1470 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-127" data-name="Rectangle 196" width="8" height="8" transform="translate(1478 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-128" data-name="Rectangle 196" width="8" height="8" transform="translate(1486 762)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-129" data-name="Rectangle 196" width="8" height="8" transform="translate(1238 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-130" data-name="Rectangle 196" width="8" height="8" transform="translate(1246 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-131" data-name="Rectangle 196" width="8" height="8" transform="translate(1254 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-132" data-name="Rectangle 196" width="8" height="8" transform="translate(1262 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-133" data-name="Rectangle 196" width="8" height="8" transform="translate(1270 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-134" data-name="Rectangle 196" width="8" height="8" transform="translate(1278 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-135" data-name="Rectangle 196" width="8" height="8" transform="translate(1286 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-136" data-name="Rectangle 196" width="8" height="8" transform="translate(1294 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-137" data-name="Rectangle 196" width="8" height="8" transform="translate(1302 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-138" data-name="Rectangle 196" width="8" height="8" transform="translate(1310 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-139" data-name="Rectangle 196" width="8" height="8" transform="translate(1318 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-140" data-name="Rectangle 196" width="8" height="8" transform="translate(1326 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-141" data-name="Rectangle 196" width="8" height="8" transform="translate(1334 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-142" data-name="Rectangle 196" width="8" height="8" transform="translate(1342 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-143" data-name="Rectangle 196" width="8" height="8" transform="translate(1350 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-144" data-name="Rectangle 196" width="8" height="8" transform="translate(1358 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-145" data-name="Rectangle 196" width="8" height="8" transform="translate(1366 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-146" data-name="Rectangle 196" width="8" height="8" transform="translate(1374 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-147" data-name="Rectangle 196" width="8" height="8" transform="translate(1382 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-148" data-name="Rectangle 196" width="8" height="8" transform="translate(1390 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-149" data-name="Rectangle 196" width="8" height="8" transform="translate(1398 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-150" data-name="Rectangle 196" width="8" height="8" transform="translate(1406 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-151" data-name="Rectangle 196" width="8" height="8" transform="translate(1414 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-152" data-name="Rectangle 196" width="8" height="8" transform="translate(1422 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-153" data-name="Rectangle 196" width="8" height="8" transform="translate(1430 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-154" data-name="Rectangle 196" width="8" height="8" transform="translate(1438 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-155" data-name="Rectangle 196" width="8" height="8" transform="translate(1446 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-156" data-name="Rectangle 196" width="8" height="8" transform="translate(1454 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-157" data-name="Rectangle 196" width="8" height="8" transform="translate(1462 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-158" data-name="Rectangle 196" width="8" height="8" transform="translate(1470 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-159" data-name="Rectangle 196" width="8" height="8" transform="translate(1478 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-160" data-name="Rectangle 196" width="8" height="8" transform="translate(1486 770)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-161" data-name="Rectangle 196" width="8" height="8" transform="translate(1238 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-162" data-name="Rectangle 196" width="8" height="8" transform="translate(1246 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-163" data-name="Rectangle 196" width="8" height="8" transform="translate(1254 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-164" data-name="Rectangle 196" width="8" height="8" transform="translate(1262 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-165" data-name="Rectangle 196" width="8" height="8" transform="translate(1270 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-166" data-name="Rectangle 196" width="8" height="8" transform="translate(1278 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-167" data-name="Rectangle 196" width="8" height="8" transform="translate(1286 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-168" data-name="Rectangle 196" width="8" height="8" transform="translate(1294 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-169" data-name="Rectangle 196" width="8" height="8" transform="translate(1302 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-170" data-name="Rectangle 196" width="8" height="8" transform="translate(1310 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-171" data-name="Rectangle 196" width="8" height="8" transform="translate(1318 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-172" data-name="Rectangle 196" width="8" height="8" transform="translate(1326 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-173" data-name="Rectangle 196" width="8" height="8" transform="translate(1334 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-174" data-name="Rectangle 196" width="8" height="8" transform="translate(1342 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-175" data-name="Rectangle 196" width="8" height="8" transform="translate(1350 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-176" data-name="Rectangle 196" width="8" height="8" transform="translate(1358 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-177" data-name="Rectangle 196" width="8" height="8" transform="translate(1366 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-178" data-name="Rectangle 196" width="8" height="8" transform="translate(1374 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-179" data-name="Rectangle 196" width="8" height="8" transform="translate(1382 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-180" data-name="Rectangle 196" width="8" height="8" transform="translate(1390 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-181" data-name="Rectangle 196" width="8" height="8" transform="translate(1398 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-182" data-name="Rectangle 196" width="8" height="8" transform="translate(1406 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-183" data-name="Rectangle 196" width="8" height="8" transform="translate(1414 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-184" data-name="Rectangle 196" width="8" height="8" transform="translate(1422 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-185" data-name="Rectangle 196" width="8" height="8" transform="translate(1430 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-186" data-name="Rectangle 196" width="8" height="8" transform="translate(1438 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-187" data-name="Rectangle 196" width="8" height="8" transform="translate(1446 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-188" data-name="Rectangle 196" width="8" height="8" transform="translate(1454 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-189" data-name="Rectangle 196" width="8" height="8" transform="translate(1462 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-190" data-name="Rectangle 196" width="8" height="8" transform="translate(1470 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-191" data-name="Rectangle 196" width="8" height="8" transform="translate(1478 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-192" data-name="Rectangle 196" width="8" height="8" transform="translate(1486 778)" fill="#fef1f1" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-193" data-name="Rectangle 196" width="8" height="8" transform="translate(1238 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-194" data-name="Rectangle 196" width="8" height="8" transform="translate(1246 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-195" data-name="Rectangle 196" width="8" height="8" transform="translate(1254 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-196" data-name="Rectangle 196" width="8" height="8" transform="translate(1262 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-197" data-name="Rectangle 196" width="8" height="8" transform="translate(1270 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-198" data-name="Rectangle 196" width="8" height="8" transform="translate(1278 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-199" data-name="Rectangle 196" width="8" height="8" transform="translate(1286 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-200" data-name="Rectangle 196" width="8" height="8" transform="translate(1294 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-201" data-name="Rectangle 196" width="8" height="8" transform="translate(1302 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-202" data-name="Rectangle 196" width="8" height="8" transform="translate(1310 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-203" data-name="Rectangle 196" width="8" height="8" transform="translate(1318 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-204" data-name="Rectangle 196" width="8" height="8" transform="translate(1326 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-205" data-name="Rectangle 196" width="8" height="8" transform="translate(1334 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-206" data-name="Rectangle 196" width="8" height="8" transform="translate(1342 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-207" data-name="Rectangle 196" width="8" height="8" transform="translate(1350 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-208" data-name="Rectangle 196" width="8" height="8" transform="translate(1358 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-209" data-name="Rectangle 196" width="8" height="8" transform="translate(1366 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-210" data-name="Rectangle 196" width="8" height="8" transform="translate(1374 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-211" data-name="Rectangle 196" width="8" height="8" transform="translate(1382 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-212" data-name="Rectangle 196" width="8" height="8" transform="translate(1390 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-213" data-name="Rectangle 196" width="8" height="8" transform="translate(1398 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-214" data-name="Rectangle 196" width="8" height="8" transform="translate(1406 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-215" data-name="Rectangle 196" width="8" height="8" transform="translate(1414 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-216" data-name="Rectangle 196" width="8" height="8" transform="translate(1422 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-217" data-name="Rectangle 196" width="8" height="8" transform="translate(1430 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-218" data-name="Rectangle 196" width="8" height="8" transform="translate(1438 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-219" data-name="Rectangle 196" width="8" height="8" transform="translate(1446 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-220" data-name="Rectangle 196" width="8" height="8" transform="translate(1454 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-221" data-name="Rectangle 196" width="8" height="8" transform="translate(1462 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-222" data-name="Rectangle 196" width="8" height="8" transform="translate(1470 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-223" data-name="Rectangle 196" width="8" height="8" transform="translate(1478 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-224" data-name="Rectangle 196" width="8" height="8" transform="translate(1486 786)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-225" data-name="Rectangle 196" width="8" height="8" transform="translate(1238 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-226" data-name="Rectangle 196" width="8" height="8" transform="translate(1246 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-227" data-name="Rectangle 196" width="8" height="8" transform="translate(1254 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-228" data-name="Rectangle 196" width="8" height="8" transform="translate(1262 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-229" data-name="Rectangle 196" width="8" height="8" transform="translate(1270 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-230" data-name="Rectangle 196" width="8" height="8" transform="translate(1278 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-231" data-name="Rectangle 196" width="8" height="8" transform="translate(1286 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-232" data-name="Rectangle 196" width="8" height="8" transform="translate(1294 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-233" data-name="Rectangle 196" width="8" height="8" transform="translate(1302 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-234" data-name="Rectangle 196" width="8" height="8" transform="translate(1310 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-235" data-name="Rectangle 196" width="8" height="8" transform="translate(1318 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-236" data-name="Rectangle 196" width="8" height="8" transform="translate(1326 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-237" data-name="Rectangle 196" width="8" height="8" transform="translate(1334 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-238" data-name="Rectangle 196" width="8" height="8" transform="translate(1342 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-239" data-name="Rectangle 196" width="8" height="8" transform="translate(1350 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-240" data-name="Rectangle 196" width="8" height="8" transform="translate(1358 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-241" data-name="Rectangle 196" width="8" height="8" transform="translate(1366 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-242" data-name="Rectangle 196" width="8" height="8" transform="translate(1374 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-243" data-name="Rectangle 196" width="8" height="8" transform="translate(1382 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-244" data-name="Rectangle 196" width="8" height="8" transform="translate(1390 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-245" data-name="Rectangle 196" width="8" height="8" transform="translate(1398 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-246" data-name="Rectangle 196" width="8" height="8" transform="translate(1406 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-247" data-name="Rectangle 196" width="8" height="8" transform="translate(1414 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-248" data-name="Rectangle 196" width="8" height="8" transform="translate(1422 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-249" data-name="Rectangle 196" width="8" height="8" transform="translate(1430 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-250" data-name="Rectangle 196" width="8" height="8" transform="translate(1438 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-251" data-name="Rectangle 196" width="8" height="8" transform="translate(1446 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-252" data-name="Rectangle 196" width="8" height="8" transform="translate(1454 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-253" data-name="Rectangle 196" width="8" height="8" transform="translate(1462 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-254" data-name="Rectangle 196" width="8" height="8" transform="translate(1470 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-255" data-name="Rectangle 196" width="8" height="8" transform="translate(1478 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-256" data-name="Rectangle 196" width="8" height="8" transform="translate(1486 794)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-257" data-name="Rectangle 196" width="8" height="8" transform="translate(1238 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-258" data-name="Rectangle 196" width="8" height="8" transform="translate(1246 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-259" data-name="Rectangle 196" width="8" height="8" transform="translate(1254 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-260" data-name="Rectangle 196" width="8" height="8" transform="translate(1262 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-261" data-name="Rectangle 196" width="8" height="8" transform="translate(1270 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-262" data-name="Rectangle 196" width="8" height="8" transform="translate(1278 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-263" data-name="Rectangle 196" width="8" height="8" transform="translate(1286 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-264" data-name="Rectangle 196" width="8" height="8" transform="translate(1294 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-265" data-name="Rectangle 196" width="8" height="8" transform="translate(1302 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-266" data-name="Rectangle 196" width="8" height="8" transform="translate(1310 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-267" data-name="Rectangle 196" width="8" height="8" transform="translate(1318 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-268" data-name="Rectangle 196" width="8" height="8" transform="translate(1326 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-269" data-name="Rectangle 196" width="8" height="8" transform="translate(1334 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-270" data-name="Rectangle 196" width="8" height="8" transform="translate(1342 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-271" data-name="Rectangle 196" width="8" height="8" transform="translate(1350 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-272" data-name="Rectangle 196" width="8" height="8" transform="translate(1358 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-273" data-name="Rectangle 196" width="8" height="8" transform="translate(1366 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-274" data-name="Rectangle 196" width="8" height="8" transform="translate(1374 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-275" data-name="Rectangle 196" width="8" height="8" transform="translate(1382 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-276" data-name="Rectangle 196" width="8" height="8" transform="translate(1390 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-277" data-name="Rectangle 196" width="8" height="8" transform="translate(1398 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-278" data-name="Rectangle 196" width="8" height="8" transform="translate(1406 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-279" data-name="Rectangle 196" width="8" height="8" transform="translate(1414 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-280" data-name="Rectangle 196" width="8" height="8" transform="translate(1422 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-281" data-name="Rectangle 196" width="8" height="8" transform="translate(1430 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-282" data-name="Rectangle 196" width="8" height="8" transform="translate(1438 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-283" data-name="Rectangle 196" width="8" height="8" transform="translate(1446 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-284" data-name="Rectangle 196" width="8" height="8" transform="translate(1454 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-285" data-name="Rectangle 196" width="8" height="8" transform="translate(1462 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-286" data-name="Rectangle 196" width="8" height="8" transform="translate(1470 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-287" data-name="Rectangle 196" width="8" height="8" transform="translate(1478 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-288" data-name="Rectangle 196" width="8" height="8" transform="translate(1486 802)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-289" data-name="Rectangle 196" width="8" height="8" transform="translate(1238 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-290" data-name="Rectangle 196" width="8" height="8" transform="translate(1246 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-291" data-name="Rectangle 196" width="8" height="8" transform="translate(1254 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-292" data-name="Rectangle 196" width="8" height="8" transform="translate(1262 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-293" data-name="Rectangle 196" width="8" height="8" transform="translate(1270 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-294" data-name="Rectangle 196" width="8" height="8" transform="translate(1278 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-295" data-name="Rectangle 196" width="8" height="8" transform="translate(1286 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-296" data-name="Rectangle 196" width="8" height="8" transform="translate(1294 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-297" data-name="Rectangle 196" width="8" height="8" transform="translate(1302 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-298" data-name="Rectangle 196" width="8" height="8" transform="translate(1310 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-299" data-name="Rectangle 196" width="8" height="8" transform="translate(1318 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-300" data-name="Rectangle 196" width="8" height="8" transform="translate(1326 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-301" data-name="Rectangle 196" width="8" height="8" transform="translate(1334 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-302" data-name="Rectangle 196" width="8" height="8" transform="translate(1342 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-303" data-name="Rectangle 196" width="8" height="8" transform="translate(1350 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-304" data-name="Rectangle 196" width="8" height="8" transform="translate(1358 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-305" data-name="Rectangle 196" width="8" height="8" transform="translate(1366 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-306" data-name="Rectangle 196" width="8" height="8" transform="translate(1374 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-307" data-name="Rectangle 196" width="8" height="8" transform="translate(1382 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-308" data-name="Rectangle 196" width="8" height="8" transform="translate(1390 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-309" data-name="Rectangle 196" width="8" height="8" transform="translate(1398 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-310" data-name="Rectangle 196" width="8" height="8" transform="translate(1406 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-311" data-name="Rectangle 196" width="8" height="8" transform="translate(1414 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-312" data-name="Rectangle 196" width="8" height="8" transform="translate(1422 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-313" data-name="Rectangle 196" width="8" height="8" transform="translate(1430 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-314" data-name="Rectangle 196" width="8" height="8" transform="translate(1438 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-315" data-name="Rectangle 196" width="8" height="8" transform="translate(1446 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-316" data-name="Rectangle 196" width="8" height="8" transform="translate(1454 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-317" data-name="Rectangle 196" width="8" height="8" transform="translate(1462 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-318" data-name="Rectangle 196" width="8" height="8" transform="translate(1470 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-319" data-name="Rectangle 196" width="8" height="8" transform="translate(1478 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-320" data-name="Rectangle 196" width="8" height="8" transform="translate(1486 810)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-321" data-name="Rectangle 196" width="8" height="8" transform="translate(1238 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-322" data-name="Rectangle 196" width="8" height="8" transform="translate(1246 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-323" data-name="Rectangle 196" width="8" height="8" transform="translate(1254 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-324" data-name="Rectangle 196" width="8" height="8" transform="translate(1262 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-325" data-name="Rectangle 196" width="8" height="8" transform="translate(1270 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-326" data-name="Rectangle 196" width="8" height="8" transform="translate(1278 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-327" data-name="Rectangle 196" width="8" height="8" transform="translate(1286 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-328" data-name="Rectangle 196" width="8" height="8" transform="translate(1294 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-329" data-name="Rectangle 196" width="8" height="8" transform="translate(1302 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-330" data-name="Rectangle 196" width="8" height="8" transform="translate(1310 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-331" data-name="Rectangle 196" width="8" height="8" transform="translate(1318 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-332" data-name="Rectangle 196" width="8" height="8" transform="translate(1326 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-333" data-name="Rectangle 196" width="8" height="8" transform="translate(1334 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-334" data-name="Rectangle 196" width="8" height="8" transform="translate(1342 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-335" data-name="Rectangle 196" width="8" height="8" transform="translate(1350 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-336" data-name="Rectangle 196" width="8" height="8" transform="translate(1358 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-337" data-name="Rectangle 196" width="8" height="8" transform="translate(1366 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-338" data-name="Rectangle 196" width="8" height="8" transform="translate(1374 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-339" data-name="Rectangle 196" width="8" height="8" transform="translate(1382 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-340" data-name="Rectangle 196" width="8" height="8" transform="translate(1390 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-341" data-name="Rectangle 196" width="8" height="8" transform="translate(1398 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-342" data-name="Rectangle 196" width="8" height="8" transform="translate(1406 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-343" data-name="Rectangle 196" width="8" height="8" transform="translate(1414 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-344" data-name="Rectangle 196" width="8" height="8" transform="translate(1422 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-345" data-name="Rectangle 196" width="8" height="8" transform="translate(1430 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-346" data-name="Rectangle 196" width="8" height="8" transform="translate(1438 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-347" data-name="Rectangle 196" width="8" height="8" transform="translate(1446 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-348" data-name="Rectangle 196" width="8" height="8" transform="translate(1454 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-349" data-name="Rectangle 196" width="8" height="8" transform="translate(1462 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-350" data-name="Rectangle 196" width="8" height="8" transform="translate(1470 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-351" data-name="Rectangle 196" width="8" height="8" transform="translate(1478 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+        <rect id="Rectangle_196-352" data-name="Rectangle 196" width="8" height="8" transform="translate(1486 818)" fill="#e1fff2" stroke="#fff" stroke-width="0.5"/>
+      </g>
+      <path id="Path_70" data-name="Path 70" d="M1493.937,826l-255.916-.04V793.967l24.03-23.892,24.082-8.137,23.875-7.963,24,16.031,24.034,8.026H1382L1406.091,794h24.07l23.923,8.037h23.923l16.079,8.04Z" transform="translate(-3)" fill="url(#linear-gradient)"/>
+      <path id="Path_69" data-name="Path 69" d="M1238,793.939l24-23.877,23.936-8.125,24.095-7.922L1334,770.047l24.036,8.05h23.984l23.988,16.02h23.957l24.119,8.02h23.923l16.079,7.844" transform="translate(-3)" fill="none" stroke="#000" stroke-width="0.5"/>
+      <g id="Group_35" data-name="Group 35" transform="translate(-3)">
+        <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(1260 768)" fill="#fff" stroke="#000" stroke-width="0.5">
+          <circle cx="2" cy="2" r="2" stroke="none"/>
+          <circle cx="2" cy="2" r="1.75" fill="none"/>
+        </g>
+        <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(1236 792)" fill="#fff" stroke="#000" stroke-width="0.5">
+          <circle cx="2" cy="2" r="2" stroke="none"/>
+          <circle cx="2" cy="2" r="1.75" fill="none"/>
+        </g>
+        <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(1284 760)" fill="#fff" stroke="#000" stroke-width="0.5">
+          <circle cx="2" cy="2" r="2" stroke="none"/>
+          <circle cx="2" cy="2" r="1.75" fill="none"/>
+        </g>
+        <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(1308 752)" fill="#fff" stroke="#000" stroke-width="0.5">
+          <circle cx="2" cy="2" r="2" stroke="none"/>
+          <circle cx="2" cy="2" r="1.75" fill="none"/>
+        </g>
+        <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(1332 768)" fill="#fff" stroke="#000" stroke-width="0.5">
+          <circle cx="2" cy="2" r="2" stroke="none"/>
+          <circle cx="2" cy="2" r="1.75" fill="none"/>
+        </g>
+        <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(1356 776)" fill="#fff" stroke="#000" stroke-width="0.5">
+          <circle cx="2" cy="2" r="2" stroke="none"/>
+          <circle cx="2" cy="2" r="1.75" fill="none"/>
+        </g>
+        <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(1380 776)" fill="#fff" stroke="#000" stroke-width="0.5">
+          <circle cx="2" cy="2" r="2" stroke="none"/>
+          <circle cx="2" cy="2" r="1.75" fill="none"/>
+        </g>
+        <g id="Ellipse_8" data-name="Ellipse 8" transform="translate(1404 792)" fill="#fff" stroke="#000" stroke-width="0.5">
+          <circle cx="2" cy="2" r="2" stroke="none"/>
+          <circle cx="2" cy="2" r="1.75" fill="none"/>
+        </g>
+        <g id="Ellipse_9" data-name="Ellipse 9" transform="translate(1428 792)" fill="#fff" stroke="#000" stroke-width="0.5">
+          <circle cx="2" cy="2" r="2" stroke="none"/>
+          <circle cx="2" cy="2" r="1.75" fill="none"/>
+        </g>
+        <g id="Ellipse_10" data-name="Ellipse 10" transform="translate(1452 800)" fill="#fff" stroke="#000" stroke-width="0.5">
+          <circle cx="2" cy="2" r="2" stroke="none"/>
+          <circle cx="2" cy="2" r="1.75" fill="none"/>
+        </g>
+        <g id="Ellipse_11" data-name="Ellipse 11" transform="translate(1476 800)" fill="#fff" stroke="#000" stroke-width="0.5">
+          <circle cx="2" cy="2" r="2" stroke="none"/>
+          <circle cx="2" cy="2" r="1.75" fill="none"/>
+        </g>
+        <g id="Ellipse_12" data-name="Ellipse 12" transform="translate(1492 808)" fill="#fff" stroke="#000" stroke-width="0.5">
+          <circle cx="2" cy="2" r="2" stroke="none"/>
+          <circle cx="2" cy="2" r="1.75" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

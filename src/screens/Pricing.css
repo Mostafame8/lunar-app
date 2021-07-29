@@ -1,0 +1,44 @@
+.header h1 {
+  color: #c50000;
+  font-weight: bold;
+}
+.header p {
+  font-size: 1.1rem;
+  font-weight: 400;
+}
+
+.header a {
+  color: #c50000;
+  text-decoration: none;
+}
+.row-buttons {
+  margin-top: -20px;
+}
+
+.row-buttons button {
+  text-transform: uppercase;
+  border: none;
+  outline: inherit;
+  width: 300px;
+  height: 54px;
+  background: #c50000 0% 0% no-repeat padding-box;
+  color: white;
+  cursor: pointer;
+  padding: 0;
+}
+
+.row-buttons i {
+  color: white;
+  margin-right: 20px;
+  padding-bottom: 12px;
+  transform: rotate(-90deg);
+  transition: 0.4s ease-in-out;
+}
+
+.row-buttons button:hover i {
+  transform: rotate(0deg);
+}
+
+.button-active i {
+  transform: rotate(0deg);
+}
